@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://andres-alcaraz.netlify.app/](https://andres-alcaraz.netlify.app/)
 
-- 📄 Visit my blog [https://2d-blog-nextjs.vercel.app/](https://2d-blog-nextjs.vercel.app/)
+- 📦️ Visit my blog [https://2d-blog-nextjs.vercel.app/](https://2d-blog-nextjs.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
