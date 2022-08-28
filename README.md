@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://andres-alcaraz.netlify.app/](https://andres-alcaraz.netlify.app/)
 
+- 📄 Visit my blog [https://2d-blog-nextjs.vercel.app/](https://2d-blog-nextjs.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@andres2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@andres2d" height="30" width="40" /></a>
