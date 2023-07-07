@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Andres Alcaraz :construction_worker:</h1>
 <h3 align="center">Software Engineer (colombia)</h3>
 
-- 🔭 I’m currently working on **Wolox part of accenture**
+- 🔭 I’m currently working on **Accenture LTDA**
 
-- 🌱 I’m currently learning **Backend with node.js** & **React - ReactNative**
+- 🌱 I’m currently learning **Backend with node.js** & **Remix**
 
 - 👨‍💻 All of my projects are available at [https://andres-alcaraz.netlify.app/](https://andres-alcaraz.netlify.app/)
 
-- 💬 Ask me about **Angular, JavaScript, CSS, SCSS, React, NPM, Node**
+- 💬 Ask me about **Angular, JavaScript, CSS, SCSS, React, NPM, Node, Typescript**
 
 - 📫 How to reach me **andres2d1997.1206@gmail.com**
 
-- 📄 Know about my experiences [https://andres-alcaraz.netlify.app/](https://andres-alcaraz.netlify.app/)
+- 📄 Know about my experiences [Website](https://andres-alcaraz.netlify.app/)
 
-- 🎨 Visit my blog [https://2d-blog-nextjs.vercel.app/](https://2d-blog-nextjs.vercel.app/)
+- 🎨 Visit my blog [2DBlog](https://2d-blog-nextjs.vercel.app/)
 
-- 📦️ My npm Packages [https://www.npmjs.com/~andres2d](https://www.npmjs.com/~andres2d)
+- 📦️ My npm Packages [andres2d](https://www.npmjs.com/~andres2d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
