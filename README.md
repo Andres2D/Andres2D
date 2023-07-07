@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend with node.js** & **Remix**
 
-- 👨‍💻 All of my projects are available at [https://andres-alcaraz.netlify.app/](https://andres-alcaraz.netlify.app/)
+- 👨‍💻 All of my projects are available at [Website](https://andres-alcaraz.netlify.app/)
 
 - 💬 Ask me about **Angular, JavaScript, CSS, SCSS, React, NPM, Node, Typescript**
 
