@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andres Alcaraz :construction_worker:</h1>
-<h3 align="center">Software Engineer (colombia)</h3>
+<h3 align="center">Software Engineer</h3>
+<h3 align="center">📌 Currently living in Toronto, Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on **Accenture LTDA**
 
-- 🌱 I’m currently learning **Backend with node.js** & **Remix**
+- 🌱 I’m currently learning **Backend with node.js** , **Remix** and **Vue**
 
 - 👨‍💻 All of my projects are available at [Website](https://andres-alcaraz.netlify.app/)
 
