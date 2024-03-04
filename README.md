@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <h3 align="center">📌 Currently living in Toronto, Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on **Accenture LTDA**
+- 🔭 I’m currently looking for Job.
 
 - 🌱 I’m currently learning **Backend with node.js** , **Remix** and **Vue**
 
