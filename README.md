@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Alcaraz :construction_worker:</h1>
 <h3 align="center">Software Engineer 🇨🇴 🇨🇦</h3>
 
-- 🔭 I’m currently working Open to work.
+- 🔭 I’m currently Open to work.
 
 - 🌱 I’m currently learning **Backend with node.js** , **Remix** and **Vue**
 
